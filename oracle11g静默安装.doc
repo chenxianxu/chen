@@ -1,0 +1,1237 @@
+Message-ID: <1254371625.189.1521530444130.JavaMail.confluence@localhost.localdomain>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_188_1024687674.1521530444130"
+
+------=_Part_188_1024687674.1521530444130
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>oracle11g=E9=9D=99=E9=BB=98=E5=AE=89=E8=A3=85</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+#main {
+    padding-bottom: 1em !important; /* The default padding of 6em is too mu=
+ch for printouts */
+}
+
+body {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    font-size: 10pt;
+    line-height: 1.2;
+}
+
+body, #full-height-container, #main, #page, #content, .has-personal-sidebar=
+ #content {
+    background: #fff    !important;
+    color: #000         !important;
+    border: 0           !important;
+    width: 100%         !important;
+    height: auto        !important;
+    min-height: auto    !important;
+    margin: 0           !important;
+    padding: 0          !important;
+    display: block      !important;
+}
+
+a, a:link, a:visited, a:focus, a:hover, a:active {
+    color: #000;
+}
+#content h1,
+#content h2,
+#content h3,
+#content h4,
+#content h5,
+#content h6 {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    page-break-after: avoid;
+}
+pre {
+    font-family: Monaco, "Courier New", monospace;
+}
+
+#header,
+.aui-header-inner,
+#navigation,
+#sidebar,
+.sidebar,
+#personal-info-sidebar,
+.ia-fixed-sidebar,
+.page-actions,
+.navmenu,
+.ajs-menu-bar,
+.noprint,
+.inline-control-link,
+.inline-control-link a,
+a.show-labels-editor,
+.global-comment-actions,
+.comment-actions,
+.quick-comment-container,
+#addcomment {
+    display: none !important;
+}
+
+.comment .date::before {
+    content: none !important; /* remove middot for print view */
+}
+
+h1.pagetitle img {
+    height: auto;
+    width: auto;
+}
+
+.print-only {
+    display: block;
+}
+#footer {
+    position: relative !important; /* CONF-17506 Place the footer at end of=
+ the content */
+    margin: 0;
+    padding: 0;
+    background: none;
+    clear: both;
+}
+
+#poweredby {
+    border-top: none;
+    background: none;
+}
+
+#poweredby li.print-only {
+    display: list-item;
+    font-style: italic;
+}
+
+#poweredby li.noprint {
+    display:none;
+}
+
+
+/* no width controls in print */
+.wiki-content .table-wrap,
+.wiki-content p,
+.panel .codeContent,
+.panel .codeContent pre,
+.image-wrap {
+    overflow: visible !important;
+}
+
+/* TODO - should this work? */
+#children-section,
+#comments-section .comment,
+#comments-section .comment .comment-body,
+#comments-section .comment .comment-content,
+#comments-section .comment p {
+    page-break-inside: avoid;
+}
+
+#page-children a {
+    text-decoration: none;
+}
+
+/**
+ hide twixies
+
+ the specificity here is a hack because print styles
+ are getting loaded before the base styles. */
+#comments-section.pageSection .section-header,
+#comments-section.pageSection .section-title,
+#children-section.pageSection .section-header,
+#children-section.pageSection .section-title,
+.children-show-hide {
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.children-show-hide.icon {
+    display: none;
+}
+
+/* personal sidebar */
+.has-personal-sidebar #content {
+    margin-right: 0px;
+}
+
+.has-personal-sidebar #content .pageSection {
+    margin-right: 0px;
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>oracle11g=E9=9D=99=E9=BB=98=E5=AE=89=E8=A3=85</h1>
+    <div class=3D"Section1">
+        <div>
+<span>1.=E6=93=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=E5=8F=8AOracle=E7=89=88=E6=9C=
+=AC</span>
+</div>
+<div>
+<span>Linux=E7=89=88=E6=9C=AC=EF=BC=9ACentOS release 6.3 (Final)</span>
+</div>
+<div>
+<span>Oracle=E7=89=88=E6=9C=AC=EF=BC=9AOracle Database 11g Release 2 (11.2.=
+0.1.0) for Linux x86-64 (linux.x64_11gR2_database_1of2.zip=E3=80=81linux.x6=
+4_11gR2_database_2of2.zip)</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>2.=E7=A1=AC=E4=BB=B6=E6=A3=80=E6=B5=8B=EF=BC=9A</span>
+</div>
+<div>
+<span>=E7=89=A9=E7=90=86=E5=86=85=E5=AD=98=E4=B8=8D=E5=B0=91=E4=BA=8E1G</sp=
+an>
+</div>
+<div>
+<span>=E7=A1=AC=E7=9B=98=E5=8F=AF=E4=BB=A5=E7=A9=BA=E9=97=B4=E4=B8=8D=E5=B0=
+=91=E4=BA=8E5G</span>
+</div>
+<div>
+<span>swap=E5=88=86=E5=8C=BA=E7=A9=BA=E9=97=B4=E4=B8=8D=E5=B0=91=E4=BA=8E2G=
+</span>
+</div>
+<div>
+<span>=E6=94=AF=E6=8C=81256=E8=89=B2=E4=BB=A5=E4=B8=8A=E6=98=BE=E5=8D=A1</s=
+pan>
+</div>
+<div>
+<span>cpu=E4=B8=BB=E9=A2=91=E4=B8=8D=E5=B0=8F=E4=BA=8E550mHZ</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>cat /etc/issue</span>
+</div>
+<div>
+<span>uname -r (=E7=89=88=E6=9C=AC)</span>
+</div>
+<div>
+<span>grep MemTotal /proc/meminfo =EF=BC=88=E5=86=85=E5=AD=98=E5=A4=A7=E5=
+=B0=8F=EF=BC=89</span>
+</div>
+<div>
+<span>grep SwapTotal /proc/meminfo =EF=BC=88=E4=BA=A4=E6=8D=A2=E5=8C=BA=E5=
+=A4=A7=E5=B0=8F=EF=BC=89</span>
+</div>
+<div>
+<span>grep &quot;model name&quot; /proc/cpuinfo =EF=BC=88CPU=E4=BF=A1=E6=81=
+=AF=EF=BC=89</span>
+</div>
+<div>
+<span>free =EF=BC=88=E5=8F=AF=E7=94=A8=E5=86=85=E5=AD=98=EF=BC=89</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>3.=E6=A3=80=E6=9F=A5=E5=AE=89=E8=A3=85=E4=BE=9D=E8=B5=96=E7=B3=BB=E7=
+=BB=9F=E5=8C=85</span>
+</div>
+<div>
+<span>=E6=93=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=E4=BE=9D=E8=B5=96=E7=9A=84=E5=85=
+=B7=E4=BD=93=E5=8C=85=EF=BC=8C=E8=AF=B7=E5=8F=82=E8=80=83=E5=AE=98=E6=96=B9=
+=E5=AE=89=E8=A3=85=E6=96=87=E6=A1=A3=E3=80=82</span>
+</div>
+<div>
+<span>binutils-2.17.50.0.6</span>
+</div>
+<div>
+<span>compat-libstdc++-33-3.2.3</span>
+</div>
+<div>
+<span>compat-libstdc++-33-3.2.3 (32 bit)</span>
+</div>
+<div>
+<span>elfutils-libelf-0.125</span>
+</div>
+<div>
+<span>elfutils-libelf-devel-0.125</span>
+</div>
+<div>
+<span>gcc-4.1.2</span>
+</div>
+<div>
+<span>gcc-c++-4.1.2</span>
+</div>
+<div>
+<span>glibc-2.5-24</span>
+</div>
+<div>
+<span>glibc-2.5-24 (32 bit)</span>
+</div>
+<div>
+<span>glibc-common-2.5</span>
+</div>
+<div>
+<span>glibc-devel-2.5</span>
+</div>
+<div>
+<span>glibc-devel-2.5 (32 bit)</span>
+</div>
+<div>
+<span>glibc-headers-2.5</span>
+</div>
+<div>
+<span>ksh-20060214</span>
+</div>
+<div>
+<span>libaio-0.3.106</span>
+</div>
+<div>
+<span>libaio-0.3.106 (32 bit)</span>
+</div>
+<div>
+<span>libaio-devel-0.3.106</span>
+</div>
+<div>
+<span>libaio-devel-0.3.106 (32 bit)</span>
+</div>
+<div>
+<span>libgcc-4.1.2</span>
+</div>
+<div>
+<span>libgcc-4.1.2 (32 bit)</span>
+</div>
+<div>
+<span>libstdc++-4.1.2</span>
+</div>
+<div>
+<span>libstdc++-4.1.2 (32 bit)</span>
+</div>
+<div>
+<span>libstdc++-devel 4.1.2</span>
+</div>
+<div>
+<span>make-3.81</span>
+</div>
+<div>
+<span>sysstat-7.0.2</span>
+</div>
+<div>
+<span>unixODBC-2.2.11 (32-bit) or later</span>
+</div>
+<div>
+<span>unixODBC-devel-2.2.11 (64-bit) or later</span>
+</div>
+<div>
+<span>unixODBC-2.2.11 (64-bit) or later</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>=E6=A3=80=E6=9F=A5=E4=BE=9D=E8=B5=96=E5=8C=85</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>rpm -q binutils compat-libstdc++-33 elfutils-libelf elfutils-libelf-d=
+evel gcc gcc-c++ glibc-2.5 glibc-common glibc-devel glibc-headers ksh libai=
+o libaio-devel libgcc libstdc++ libstdc++-devel make sysstat unixODBC unixO=
+DBC-devel</span>
+</div>
+<div>
+<span>=E5=A6=82=E6=9E=9C=E5=8C=85=E6=9C=89=E6=98=BE=E7=A4=BAis not installe=
+d(=E6=B2=A1=E5=AE=89=E8=A3=85)=EF=BC=8C=E5=B0=B1=E7=94=A8yum install =E5=91=
+=BD=E4=BB=A4=E5=AE=89=E8=A3=85=EF=BC=8C=E5=A6=82=EF=BC=9A</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>yum install compat-libstdc++-33</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>4.=E5=88=9B=E5=BB=BA=E6=89=80=E9=9C=80=E7=9A=84=E6=93=8D=E4=BD=9C=E7=
+=B3=BB=E7=BB=9F=E7=BB=84=E5=92=8C=E7=94=A8=E6=88=B7</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>groupadd oinstall</span>
+</div>
+<div>
+<span>groupadd dba</span>
+</div>
+<div>
+<span>useradd -g oinstall -G dba oracle</span>
+</div>
+<div>
+<span>=E8=AE=BE=E7=BD=AEoracle=E7=94=A8=E6=88=B7=E5=AF=86=E7=A0=81</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>passwd oracle</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>5.=E4=BF=AE=E6=94=B9=E5=86=85=E6=A0=B8=E5=8F=82=E6=95=B0</span>
+</div>
+<div>
+<span>=E5=9C=A8/sbin/sysctl.conf =E6=96=87=E4=BB=B6=E4=B8=AD=EF=BC=8C=E4=BD=
+=BF=E7=94=A8=E6=96=87=E6=9C=AC=E7=BC=96=E8=BE=91=E5=99=A8=E6=88=96vi=E5=91=
+=BD=E4=BB=A4=E5=A2=9E=E5=8A=A0=E6=88=96=E4=BF=AE=E6=94=B9=E4=BB=A5=E4=B8=8B=
+=E5=8F=82=E6=95=B0</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>fs.aio-max-nr =3D 1048576</span>
+</div>
+<div>
+<span>fs.file-max =3D 6815744</span>
+</div>
+<div>
+<span>kernel.shmall =3D 2097152</span>
+</div>
+<div>
+<span>kernel.shmmax =3D 536870912</span>
+</div>
+<div>
+<span>kernel.shmmni =3D 4096</span>
+</div>
+<div>
+<span>kernel.sem =3D 250 32000 100 128</span>
+</div>
+<div>
+<span>net.ipv4.ip_local_port_range =3D 9000 65500</span>
+</div>
+<div>
+<span>net.core.rmem_default =3D 262144</span>
+</div>
+<div>
+<span>net.core.rmem_max =3D 4194304</span>
+</div>
+<div>
+<span>net.core.wmem_default =3D 262144</span>
+</div>
+<div>
+<span>net.core.wmem_max =3D 1048576</span>
+</div>
+<div>
+<span>=E4=BF=AE=E6=94=B9=E5=90=8E=EF=BC=8C=E4=BD=BF=E8=AE=BE=E7=BD=AE=E7=94=
+=9F=E6=95=88</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>/sbin/sysctl -p</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>6.=E4=BF=AE=E6=94=B9=E7=94=A8=E6=88=B7=E9=99=90=E5=88=B6</span>
+</div>
+<div>
+<span>=E5=9C=A8/etc/security/limits.conf =E6=96=87=E4=BB=B6=E4=B8=AD=EF=BC=
+=8C=E4=BD=BF=E7=94=A8=E6=96=87=E6=9C=AC=E7=BC=96=E8=BE=91=E5=99=A8=E6=88=96=
+vi=E5=91=BD=E4=BB=A4=E5=A2=9E=E5=8A=A0=E6=88=96=E4=BF=AE=E6=94=B9=E4=BB=A5=
+=E4=B8=8B=E5=8F=82=E6=95=B0</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>oracle soft nproc 2047</span>
+</div>
+<div>
+<span>oracle hard nproc 16384</span>
+</div>
+<div>
+<span>oracle soft nofile 1024</span>
+</div>
+<div>
+<span>oracle hard nofile 65536</span>
+</div>
+<div>
+<span>oracle soft stack 10240</span>
+</div>
+<div>
+<span>=E5=9C=A8/etc/pam.d/login =E6=96=87=E4=BB=B6=E4=B8=AD=EF=BC=8C=E4=BD=
+=BF=E7=94=A8=E6=96=87=E6=9C=AC=E7=BC=96=E8=BE=91=E5=99=A8=E6=88=96vi=E5=91=
+=BD=E4=BB=A4=E5=A2=9E=E5=8A=A0=E6=88=96=E4=BF=AE=E6=94=B9=E4=BB=A5=E4=B8=8B=
+=E5=86=85=E5=AE=B9</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>session required /lib/security/<a href=3D"http://pam_limits.so" class=
+=3D"external-link" rel=3D"nofollow">pam_limits.so</a></span>
+</div>
+<div>
+<span>session required <a href=3D"http://pam_limits.so" class=3D"external-l=
+ink" rel=3D"nofollow">pam_limits.so</a></span>
+</div>
+<div>
+<span>=E5=9C=A8/etc/profile =E6=96=87=E4=BB=B6=E4=B8=AD=EF=BC=8C=E4=BD=BF=
+=E7=94=A8=E6=96=87=E6=9C=AC=E7=BC=96=E8=BE=91=E5=99=A8=E6=88=96vi=E5=91=BD=
+=E4=BB=A4=E5=A2=9E=E5=8A=A0=E6=88=96=E4=BF=AE=E6=94=B9=E4=BB=A5=E4=B8=8B=E5=
+=86=85=E5=AE=B9</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>if [ $USER =3D &quot;oracle&quot; ]; then</span>
+</div>
+<div>
+<span>if [ $SHELL =3D &quot;/bin/ksh&quot; ]; then</span>
+</div>
+<div>
+<span>ulimit -p 16384</span>
+</div>
+<div>
+<span>ulimit -n 65536</span>
+</div>
+<div>
+<span>else</span>
+</div>
+<div>
+<span>ulimit -u 16384 -n 65536</span>
+</div>
+<div>
+<span>fi</span>
+</div>
+<div>
+<span>fi</span>
+</div>
+<div>
+<span>=E4=BD=BF=E8=AE=BE=E7=BD=AE=E7=94=9F=E6=95=88</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>source /etc/profile</span>
+</div>
+<div>
+<span>7.=E5=88=9B=E5=BB=BA=E5=AE=89=E8=A3=85=E7=9B=AE=E5=BD=95(=E5=8F=AF=E6=
+=A0=B9=E6=8D=AE=E6=83=85=E5=86=B5=EF=BC=8C=E9=80=89=E6=8B=A9=E6=AF=94=E8=BE=
+=83=E5=A4=9A=E7=A9=BA=E9=97=B4=E7=9A=84=E7=9B=AE=E5=BD=95=E5=88=9B=E5=BB=BA=
+)</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>mkdir -p /usr/oracle</span>
+</div>
+<div>
+<span>chown -R oracle:oinstall /usr/oracle</span>
+</div>
+<div>
+<span>chmod -R 775 /usr/oracle</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>8.=E5=88=9B=E5=BB=BA/etc/oraInst.loc=E6=96=87=E4=BB=B6,=E5=86=85=E5=
+=AE=B9=E5=A6=82=E4=B8=8B</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>nventory_loc=3D/usr/oracle/oraInventory</span>
+</div>
+<div>
+<span>inst_group=3Doinstall</span>
+</div>
+<div>
+<span>=E6=9B=B4=E6=94=B9=E6=96=87=E4=BB=B6=E7=9A=84=E6=9D=83=E9=99=90</span=
+>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>chown oracle:oinstall /etc/oraInst.loc</span>
+</div>
+<div>
+<span>chmod 664 /etc/oraInst.loc</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>9.=E8=AE=BE=E7=BD=AEoracle=E7=8E=AF=E5=A2=83=E5=8F=98=E9=87=8F</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>su - oracle</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>vi ~/.bash_profile</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>=E5=9C=A8=E6=9C=80=E5=90=8E=E5=8A=A0=E4=B8=8A=E4=BB=A5=E4=B8=8B=E5=86=
+=85=E5=AE=B9</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>export ORACLE_BASE=3D/usr/oracle</span>
+</div>
+<div>
+<span>export ORACLE_SID=3Dorcl</span>
+</div>
+<div>
+<span>=E6=B3=A8=E6=84=8F=EF=BC=8C=E9=99=A4=E4=BA=86ORACLE_BASE=E5=92=8CORAC=
+LE_SID,( /etc/profile=E5=92=8C.bash_profile=E4=B8=AD)=E4=B8=8D=E8=AE=BE=E7=
+=BD=AE=E4=BB=BB=E4=BD=95oracle=E7=9B=B8=E5=85=B3=E7=8E=AF=E5=A2=83=E5=8F=98=
+=E9=87=8F(ORACLE_HOME, PATH, LD_LIBRARY_PATH=E7=AD=89)=E3=80=82</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>=E4=BD=BF=E8=AE=BE=E7=BD=AE=E7=94=9F=E6=95=88</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>source /home/oracle/.bash_profile</span>
+</div>
+<div>
+<span>=E6=A3=80=E6=9F=A5=E7=8E=AF=E5=A2=83=E5=8F=98=E9=87=8F=EF=BC=9A&nbsp;=
+</span>
+</div>
+<div>
+<span>env</span>
+<br />
+<br />
+<span>=E5=90=8C=E6=97=B6=EF=BC=8C=E5=9C=A8=E4=BD=BF=E7=94=A8=E9=9D=99=E9=BB=
+=98=E5=AE=89=E8=A3=85=E7=9A=84=E6=97=B6=E5=80=99=E4=BC=9A=E6=A3=80=E6=9F=A5=
+DISPLAY=E7=9A=84=E8=AE=BE=E7=BD=AE=EF=BC=8C=E5=A6=82=E6=9E=9C=E7=BB=8F=E5=
+=B8=B8=E8=AF=B4=E6=A3=80=E6=9F=A5DISPLAY=E4=B8=8D=E8=A1=8C=E7=9A=84=E8=AF=
+=9D=EF=BC=8C=E5=88=B0root=E7=94=A8=E6=88=B7=E4=B8=8B=E6=89=A7=E8=A1=8C=E2=
+=80=9Cxhost + =E4=BD=A0=E7=9A=84ip=EF=BC=9A0.0=E2=80=9C</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>10.=E8=A7=A3=E5=8E=8Boracle=E5=AE=89=E8=A3=85=E6=96=87=E4=BB=B6</span=
+>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>unzip linux.x64_11gR2_database_1of2.zip</span>
+</div>
+<div>
+<span>unzip linux.x64_11gR2_database_2of2.zip</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>11.=E5=A4=8D=E5=88=B6=E5=93=8D=E5=BA=94=E6=96=87=E4=BB=B6=E6=A8=A1=E6=
+=9D=BF</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>mkdir etc</span>
+</div>
+<div>
+<span>cp /home/oracle/database/response/* /home/oracle/etc/</span>
+</div>
+<div>
+<span>=E8=AE=BE=E7=BD=AE=E5=93=8D=E5=BA=94=E6=96=87=E4=BB=B6=E6=9D=83=E9=99=
+=90</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>su - root</span>
+</div>
+<div>
+<span>chmod 700 /home/oracle/etc/*.rsp=EF=BC=88=E6=B3=A8=E6=84=8F=E6=89=80=
+=E6=9C=89=E8=80=85=EF=BC=8Coinstall=EF=BC=89</span>
+</div>
+<div>
+<span>12.=E9=9D=99=E9=BB=98=E5=AE=89=E8=A3=85Oracle=E8=BD=AF=E4=BB=B6</span=
+>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>su - oracle</span>
+</div>
+<div>
+<span>=E4=BF=AE=E6=94=B9=E5=AE=89=E8=A3=85Oracle=E8=BD=AF=E4=BB=B6=E7=9A=84=
+=E5=93=8D=E5=BA=94=E6=96=87=E4=BB=B6/home/oracle/etc/db_install.rsp</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>oracle.install.option=3DINSTALL_DB_SWONLY // =E5=AE=89=E8=A3=85=E7=B1=
+=BB=E5=9E=8B</span>
+</div>
+<div>
+<span>ORACLE_HOSTNAME=3Ddb&nbsp;// =E4=B8=BB=E6=9C=BA=E5=90=8D=E7=A7=B0=EF=
+=BC=88hostname=E6=9F=A5=E8=AF=A2=EF=BC=89</span>
+</div>
+<div>
+<span>UNIX_GROUP_NAME=3Doinstall // =E5=AE=89=E8=A3=85=E7=BB=84</span>
+</div>
+<div>
+<span>INVENTORY_LOCATION=3D/usr/oracle/oraInventory //INVENTORY=E7=9B=AE=E5=
+=BD=95=EF=BC=88=E4=B8=8D=E5=A1=AB=E5=B0=B1=E6=98=AF=E9=BB=98=E8=AE=A4=E5=80=
+=BC=EF=BC=89</span>
+</div>
+<div>
+<span>SELECTED_LANGUAGES=3Den,zh_CN,zh_TW // =E9=80=89=E6=8B=A9=E8=AF=AD=E8=
+=A8=80</span>
+</div>
+<div>
+<span>ORACLE_HOME=3D/usr/oracle/product/11.2.0/db_1 // oracle_home</span>
+</div>
+<div>
+<span>ORACLE_BASE=3D/usr/oracle // oracle_base</span>
+</div>
+<div>
+<span>oracle.install.db.InstallEdition=3DEE // oracle=E7=89=88=E6=9C=AC</sp=
+an>
+</div>
+<div>
+<span>oracle.install.db.isCustomInstall=3Dfalse //=E8=87=AA=E5=AE=9A=E4=B9=
+=89=E5=AE=89=E8=A3=85=EF=BC=8C=E5=90=A6=EF=BC=8C=E4=BD=BF=E7=94=A8=E9=BB=98=
+=E8=AE=A4=E7=BB=84=E4=BB=B6</span>
+</div>
+<div>
+<span>oracle.install.db.DBA_GROUP=3Ddba // dba=E7=94=A8=E6=88=B7=E7=BB=84</=
+span>
+</div>
+<div>
+<span>oracle.install.db.OPER_GROUP=3Doinstall //&nbsp;oper=E7=94=A8=E6=88=
+=B7=E7=BB=84</span>
+</div>
+<div>
+<span>oracle.install.db.config.starterdb.type=3D<span style=3D"color: rgb(2=
+29,51,51);">GENERAL_PURPOSE&nbsp;</span>//=E6=95=B0=E6=8D=AE=E5=BA=93=E7=B1=
+=BB=E5=9E=8B</span>
+</div>
+<div>
+<span>oracle.install.db.config.starterdb.globalDBName=3Dorcl //globalDBName=
+</span>
+</div>
+<div>
+<span>oracle.install.db.config.starterdb.SID=3Dorcl //SID</span>
+</div>
+<div>
+<span>oracle.install.db.config.starterdb.memoryLimit=3D81920 //=E8=87=AA=E5=
+=8A=A8=E7=AE=A1=E7=90=86=E5=86=85=E5=AD=98=E7=9A=84=E5=86=85=E5=AD=98(M)</s=
+pan>
+</div>
+<div>
+<span>oracle.install.db.config.starterdb.password.ALL=3Doracle //=E8=AE=BE=
+=E5=AE=9A=E6=89=80=E6=9C=89=E6=95=B0=E6=8D=AE=E5=BA=93=E7=94=A8=E6=88=B7=E4=
+=BD=BF=E7=94=A8=E5=90=8C=E4=B8=80=E4=B8=AA=E5=AF=86=E7=A0=81</span>
+<br />
+<span>SECURITY_UPDATES_VIA_MYORACLESUPPORT=3Dfalse=EF=BC=88=E6=89=8B=E5=8A=
+=A8=E5=86=99=E4=BA=86false=EF=BC=89</span>
+</div>
+<div>
+<span style=3D"color: rgb(229,51,51);">DECLINE_SECURITY_UPDATES=3Dtrue //=
+=E8=AE=BE=E7=BD=AE=E5=AE=89=E5=85=A8=E6=9B=B4=E6=96=B0=EF=BC=88=E8=B2=8C=E4=
+=BC=BC=E6=98=AF=E6=9C=89bug=EF=BC=8C=E8=BF=99=E4=B8=AA=E4=B8=80=E5=AE=9A=E8=
+=A6=81=E9=80=89true=EF=BC=8C=E5=90=A6=E5=88=99=E4=BC=9A=E6=97=A0=E9=99=90=
+=E6=8F=90=E9=86=92=E9=82=AE=E4=BB=B6=E5=9C=B0=E5=9D=80=E6=9C=89=E9=97=AE=E9=
+=A2=98=EF=BC=8C=E7=BB=88=E6=AD=A2=E5=AE=89=E8=A3=85=E3=80=82PS=EF=BC=9A=E4=
+=B8=8D=E7=AE=A1=E5=9C=B0=E5=9D=80=E5=AF=B9=E4=B8=8D=E5=AF=B9=EF=BC=89<br />=
+</span>
+</div>
+<div>
+<span>=E5=BC=80=E5=A7=8B=E9=9D=99=E9=BB=98=E5=AE=89=E8=A3=85</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>cd database</span>
+</div>
+<div>
+<span>./runInstaller -silent -responseFile /home/oracle/etc/db_install.rsp<=
+/span>
+</div>
+<div>
+<span>=E5=AE=89=E8=A3=85=E4=B8=AD=EF=BC=8C=E5=A6=82=E6=9E=9C=E6=8F=90=E7=A4=
+=BA[WARNING]=E4=B8=8D=E5=BF=85=E7=90=86=E4=BC=9A=EF=BC=8C=E6=AD=A4=E6=97=B6=
+=E5=AE=89=E8=A3=85=E7=A8=8B=E5=BA=8F=E4=BB=8D=E5=9C=A8=E8=BF=9B=E8=A1=8C=EF=
+=BC=8C=E5=A6=82=E6=9E=9C=E5=87=BA=E7=8E=B0[FATAL]=EF=BC=8C=E5=88=99=E5=AE=
+=89=E8=A3=85=E7=A8=8B=E5=BA=8F=E5=B7=B2=E7=BB=8F=E5=81=9C=E6=AD=A2=E4=BA=86=
+=E3=80=82</span>
+</div>
+<div>
+<span>=E6=9F=A5=E7=9C=8B=E5=AE=89=E8=A3=85=E6=97=A5=E5=BF=97=E4=BF=A1=E6=81=
+=AF=E4=BA=86=E8=A7=A3=E5=AE=89=E8=A3=85=E8=BF=9B=E5=BA=A6</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>cd $ORACLE_BASE/oraInventory/logs</span>
+</div>
+<div>
+<span>tail -f installActions*.log</span>
+</div>
+<div>
+<span>=E5=87=BA=E7=8E=B0=E7=B1=BB=E4=BC=BC=E5=A6=82=E4=B8=8B=E6=8F=90=E7=A4=
+=BA=E8=A1=A8=E7=A4=BA=E5=AE=89=E8=A3=85=E5=AE=8C=E6=88=90=EF=BC=9A</span>
+</div>
+<div>
+<span>#-------------------------------------------------------------------<=
+/span>
+</div>
+<div>
+<span>/usr/oracle/oraInventory/orainstRoot.sh</span>
+</div>
+<div>
+<span>/usr/oracle/product/11.2.0/db_1/root.sh</span>
+</div>
+<div>
+<span>To execute the configuration scripts:</span>
+</div>
+<div>
+<span>1. Open a terminal window&nbsp;</span>
+</div>
+<div>
+<span>2. Log in as &quot;root&quot;&nbsp;</span>
+</div>
+<div>
+<span>3. Run the scripts&nbsp;</span>
+</div>
+<div>
+<span>4. Return to this window and hit &quot;Enter&quot; key to continue</s=
+pan>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>Successfully Setup Software.</span>
+</div>
+<div>
+<span>#-------------------------------------------------------------------<=
+/span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>=E4=BD=BF=E7=94=A8root=E7=94=A8=E6=88=B7=E6=89=A7=E8=A1=8C=E8=84=9A=
+=E6=9C=AC</span>
+<br />
+<br />
+<span>=E8=BF=99=E9=87=8C=E6=98=AF=E6=9C=89=E4=B8=A4=E4=B8=AA=E8=84=9A=E6=9C=
+=AC=E8=A6=81=E6=89=A7=E8=A1=8C=EF=BC=8C=E8=B7=91=E4=B8=80=E4=B8=8B=E5=B0=B1=
+=E5=A5=BD</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>su root</span>
+</div>
+<div>
+<span>/usr/oracle/product/11.2.0/db_1/root.sh<br />/usr/oracle/oraInventory=
+/orainstRoot.sh</span>
+</div>
+<div>
+<span>=E5=A2=9E=E5=8A=A0oracle=E7=8E=AF=E5=A2=83=E5=8F=98=E9=87=8F</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>su - oracle</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>vi ~/.bash_profile</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>=E5=9C=A8=E6=9C=80=E5=90=8E=E5=8A=A0=E4=B8=8A=E4=BB=A5=E4=B8=8B=E5=86=
+=85=E5=AE=B9</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>export ORACLE_HOME=3D$ORACLE_BASE/product/11.2.0/db_1</span>
+</div>
+<div>
+<span>export TNS_ADMIN=3D$ORACLE_HOME/network/admin</span>
+</div>
+<div>
+<span>export PATH=3D.:${PATH}:$HOME/bin:$ORACLE_HOME/bin</span>
+</div>
+<div>
+<span>export PATH=3D${PATH}:/usr/<a href=3D"http://bin/bin:/usr/bin/X11:/us=
+r/local/bin" class=3D"external-link" rel=3D"nofollow">bin:/bin:/usr/bin/X11=
+:/usr/local/bin</a></span>
+</div>
+<div>
+<span>export LD_LIBRARY_PATH=3D${LD_LIBRARY_PATH}:$ORACLE_HOME/lib</span>
+</div>
+<div>
+<span>export LD_LIBRARY_PATH=3D${LD_LIBRARY_PATH}:$ORACLE_HOME/oracm/lib</s=
+pan>
+</div>
+<div>
+<span>export LD_LIBRARY_PATH=3D${LD_LIBRARY_PATH}:/<a href=3D"http://lib/us=
+r/lib:/usr/local/lib" class=3D"external-link" rel=3D"nofollow">lib:/usr/lib=
+:/usr/local/lib</a></span>
+</div>
+<div>
+<span>export CLASSPATH=3D${CLASSPATH}:$ORACLE_HOME/JRE</span>
+</div>
+<div>
+<span>export CLASSPATH=3D${CLASSPATH}:$ORACLE_HOME/JRE/lib</span>
+</div>
+<div>
+<span>export CLASSPATH=3D${CLASSPATH}:$ORACLE_HOME/jlib</span>
+</div>
+<div>
+<span>export CLASSPATH=3D${CLASSPATH}:$ORACLE_HOME/rdbms/jlib</span>
+</div>
+<div>
+<span>export CLASSPATH=3D${CLASSPATH}:$ORACLE_HOME/network/jlib</span>
+</div>
+<div>
+<span>export LIBPATH=3D${CLASSPATH}:$ORACLE_HOME/lib:$ORACLE_HOME/ctx/lib</=
+span>
+</div>
+<div>
+<span>export ORACLE_OWNER=3Doracle</span>
+</div>
+<div>
+<span>export SPFILE_PATH=3D$ORACLE_HOME/dbs</span>
+</div>
+<div>
+<span>export ORA_NLS10=3D$ORACLE_HOME/nls/data</span>
+</div>
+<div>
+<span>=E4=BD=BF=E8=AE=BE=E7=BD=AE=E7=94=9F=E6=95=88</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>source /home/oracle/.bash_profile</span>
+</div>
+<div>
+<span>&nbsp;</span>
+</div>
+<div>
+<span>=E5=88=B0=E8=BF=99=E9=87=8C=EF=BC=8Coracle11g=E7=9A=84=E6=95=B0=E6=8D=
+=AE=E5=BA=93=E5=AE=9E=E4=BE=8B=E5=B0=B1=E7=AE=97=E6=98=AF=E8=A3=85=E5=A5=BD=
+=E4=BA=86=EF=BC=8C=E6=8E=A5=E4=B8=8B=E6=9D=A5=E9=85=8D=E7=BD=AE=E6=95=B0=E6=
+=8D=AE=E5=BA=93=E5=AE=9E=E4=BE=8B=E7=9A=84=E5=9F=BA=E6=9C=AC=E5=8F=82=E6=95=
+=B0=E6=96=87=E4=BB=B6~</span>
+<br />
+<span>cd $ORACLE_HOME/dbs</span>
+<br />
+<br />
+<span>=E6=89=BE=E5=88=B0=E9=BB=98=E8=AE=A4=E7=9A=84init.ora=EF=BC=8C=E7=84=
+=B6=E5=90=8E=E5=88=9B=E5=BB=BA=E4=B8=80=E4=B8=AA=E6=96=B0=E7=9A=84init.ora:=
+</span>
+<br />
+<span>cat init.ora | grep -V ^# | grep -V ^$ | &gt; init$ORACLE_SID.ora</sp=
+an>
+<br />
+<br />
+<span>=E4=BF=AE=E6=94=B9=E6=96=B0=E5=8F=82=E6=95=B0=E6=96=87=E4=BB=B6=E9=87=
+=8C=E9=9D=A2=E7=9A=84&lt;$ORACLE_HOME&gt;=E4=B8=BA=E7=BB=9D=E5=AF=B9=E8=B7=
+=AF=E5=BE=84=EF=BC=8C=E7=84=B6=E5=90=8E=E6=8A=8Adb_name=E4=B9=8B=E7=B1=BB=
+=E7=9A=84=E4=B8=9C=E8=A5=BF=E6=94=B9=E6=88=90=E8=87=AA=E5=B7=B1=E7=9A=84=E5=
+=B0=B1=E5=A5=BD~</span>
+<br />
+<br />
+<span>=E7=84=B6=E5=90=8E=E5=B0=B1=E5=8F=AF=E4=BB=A5=E5=90=AF=E5=8A=A8oracle=
+=E5=AE=9E=E4=BE=8B=E4=BA=86=EF=BC=8C=E7=94=A8sqlplus &quot;/as sysdba&quot;=
+=E7=99=BB=E5=BD=95=E8=BF=9B=E5=8E=BB=EF=BC=8C=E7=84=B6=E5=90=8Estartup nomo=
+unt;</span>
+<br />
+<span>=E5=A6=82=E6=9E=9C=E8=AF=B4MEMORY_TARGET=E5=A4=AA=E5=A4=A7=E4=BA=86=
+=EF=BC=8C=E9=82=A3=E4=B9=88=E5=8F=AF=E4=BB=A5=E5=9C=A8=E5=8F=82=E6=95=B0=E6=
+=96=87=E4=BB=B6=E9=87=8C=E9=9D=A2=E6=94=B9=E5=B0=8F=E4=B8=80=E7=82=B9=EF=BC=
+=88=E8=BF=99=E9=87=8C=E8=AE=BE=E7=BD=AE=E7=9A=84=E6=98=AF81960M=EF=BC=8C80G=
+=EF=BC=89=EF=BC=8C=E6=88=96=E8=80=85=E4=BF=AE=E6=94=B9shm=E7=9A=84=E5=A4=A7=
+=E5=B0=8F=E3=80=81</span>
+<br />
+<span>=E7=94=A8df -h=E8=83=BD=E7=9C=8B=E5=88=B0/dev/shm=E7=9A=84=E5=A4=A7=
+=E5=B0=8F</span>
+<br />
+<span>=E7=94=A8mount -o size=3D102400M -o nrinodes=3D1000000 -o noatime,nod=
+iratime -o remount /dev/shm=E6=9D=A5=E4=BF=AE=E6=94=B9shm=E7=9A=84=E5=A4=A7=
+=E5=B0=8F</span>
+<br />
+<br />
+<span>=E7=84=B6=E5=90=8E=E5=88=9B=E5=BB=BAspfile</span>
+<br />
+<span>create spfile from pfile;=EF=BC=88=E5=85=B7=E4=BD=93=E7=9A=84=E8=BF=
+=99=E4=B8=A4=E4=B8=AA=E4=B8=9C=E8=A5=BF=E7=9A=84=E8=B5=84=E6=96=99=E5=8F=AF=
+=E4=BB=A5=E5=8F=82=E8=80=83=E6=88=91=E7=9A=84=E5=8F=A6=E4=B8=80=E7=AF=87=E6=
+=96=87=E7=AB=A0=EF=BC=8Cspfile=E5=92=8Cpfile=E9=82=A3=E7=82=B9=E4=BA=8B=EF=
+=BC=89</span>
+<br />
+<br />
+<span>=E5=A6=82=E6=9E=9C=E4=B8=80=E5=88=87=E6=AD=A3=E5=B8=B8=EF=BC=8C=E9=82=
+=A3=E4=B9=88=E4=BC=9A=E6=98=BE=E7=A4=BA=E5=87=BA=E6=95=B0=E6=8D=AE=E5=BA=93=
+=E7=9A=84=E4=B8=80=E4=BA=9B=E6=B1=A0=E5=92=8C=E7=BC=93=E5=AD=98=E7=9A=84=E4=
+=BF=A1=E6=81=AF=EF=BC=8C=E6=8E=A5=E4=B8=8B=E6=9D=A5=E5=B0=B1=E6=98=AF=E5=88=
+=9B=E5=BB=BA=E6=95=B0=E6=8D=AE=E5=BA=93=E4=BA=86=EF=BC=8C</span>
+<br />
+<br />
+<span>=E5=85=88=E5=88=9B=E5=BB=BA=E5=BF=85=E8=A6=81=E7=9B=AE=E5=BD=95</span=
+>
+<br />
+<span>mkdir -p $ORACLE_BASE/admin/$ORACLE_SID/adump</span>
+<br />
+<span>mkdir -p $ORACLE_BASE/oradata</span>
+<br />
+<br />
+<span>PS:=E7=A8=8D=E5=BE=AE=E6=B3=A8=E6=84=8F=E4=B8=80=E4=B8=8B=E7=9A=84=E6=
+=98=AF=EF=BC=8C/usr/local/bin=E4=B8=8B=E9=9D=A2=EF=BC=8C=E5=87=A0=E4=B8=AA=
+=E7=9B=AE=E5=BD=95=E7=9A=84=E6=9D=83=E9=99=90=EF=BC=8C=E8=AE=B0=E5=BE=97=E8=
+=A6=81=E6=94=B9=E6=88=90oracle=E5=92=8Coinstall=E7=9A=84=EF=BC=88chown -R o=
+racle:oinstall *</span>
+<span>=EF=BC=89,=E5=90=A6=E5=88=99=E5=90=AF=E5=8A=A8=E7=9A=84=E6=97=B6=E5=
+=80=99=E4=BC=9A=E6=8F=90=E7=A4=BA=E9=94=99=E8=AF=AF=EF=BC=8C=E6=9D=83=E9=99=
+=90=E5=95=8A=EF=BC=8C=E7=9B=AE=E5=BD=95=E6=93=8D=E4=BD=9C=E5=A4=B1=E8=B4=A5=
+=E4=BA=91=E4=BA=91<br /></span>
+<br />
+<span>=E5=BB=BA=E5=BA=93=E8=84=9A=E6=9C=AC=E5=A6=82=E4=B8=8B=EF=BC=9A</span=
+>
+<br />
+<span>CREATE DATAB</span>
+<a href=3D"http://www.itpub.net/thread-385520-1-1.html" class=3D"external-l=
+ink" rel=3D"nofollow"><span>ASE</span></a>
+<span>&nbsp;orcl&nbsp;</span>
+<br />
+<span>USER SYS IDENTIFIED BY sys&nbsp;</span>
+<br />
+<span>USER SYSTEM IDENTIFIED BY system&nbsp;</span>
+<br />
+<span>LOGFILE&nbsp;</span>
+<br />
+<span>GROUP 1 ('/usr/oracle/oradata/redo01.log') SIZE 1024M,&nbsp;</span>
+<br />
+<span>GROUP 2 ('/usr/oracle/oradata/redo02.log') size 1024m,&nbsp;</span>
+<br />
+<span>GROUP 3 ('/usr/oracle/oradata/redo03.log') size 1024m,&nbsp;</span>
+<br />
+<span>GROUP 4 ('/usr/oracle/oradata/redo04.log') size 1024m,&nbsp;</span>
+<br />
+<span>GROUP 5 ('/usr/oracle/oradata/redo05.log') size 1024m</span>
+<br />
+<span>MAXLOGFILES 5&nbsp;</span>
+<br />
+<span>MAXLOGMEMBERS 5&nbsp;</span>
+<br />
+<span>MAXLOGHISTORY 200&nbsp;</span>
+<br />
+<span>MAXDATAFILES 10000</span>
+<br />
+<span>MAXINSTANCES 1&nbsp;</span>
+<br />
+<span>CHARACTER SET AL32UTF8&nbsp;</span>
+<br />
+<span>NATIONAL CHARACTER SET AL16UTF16&nbsp;</span>
+<br />
+<span>datafile '/usr/oracle/oradata/system01.dbf' size 2048M &nbsp;REUSE</s=
+pan>
+<br />
+<span>&nbsp;</span>
+<span>EXTENT MANAGEMENT LOCAL</span>
+<span>&nbsp;</span>
+<br />
+<span>sysaux datafile '/usr/oracle/oradata/sysaux01.dbf' size 2048M REUSE</=
+span>
+<br />
+<span>default temporary tablespace temp&nbsp;</span>
+<br />
+<span>tempfile '/usr/oracle/oradata/temp01.dbf' size 2048M REUSE</span>
+<br />
+<span>undo tablespace UNDOTBS1&nbsp;</span>
+<br />
+<span>datafile '/usr/oracle/oradata/undotbs01.dbf' size 4096M &nbsp;REUSE</=
+span>
+<br />
+<span>AUTOEXTEND&nbsp;off<br />default tablespace DATA<br />datafile '/usr/=
+oracle/oradata/data01.dbf' size 8192M &nbsp;REUSE<br />EXTENT MANAGEMENT LO=
+CAL<br />SEGMENT SPACE MANAGEMENT AUTO;</span>
+<br />
+<br />
+<span>=E4=BD=BF=E7=94=A8Extend=E5=92=8CSegment=E7=9A=84=E7=AE=A1=E7=90=86,=
+=E6=87=92=E4=BA=BA+=E6=B0=B4B=E8=A1=A8=E7=A4=BA=E8=87=AA=E5=B7=B1=E7=AE=A1=
+=E7=90=86=E7=9A=84=E6=8A=80=E5=B7=A7=E6=9A=82=E6=97=B6=E6=B2=A1=E7=A9=BA=E5=
+=AD=A6=EF=BC=8C=E5=85=A8=E9=83=A8=E4=BA=A4=E7=BB=99oracle=E8=87=AA=E5=B7=B1=
+=E7=AE=A1=E7=90=86.....</span>
+<br />
+<br />
+<span>=E5=A6=82=E6=9E=9C=E6=B2=A1=E9=97=AE=E9=A2=98=EF=BC=8C=E6=8E=A5=E4=B8=
+=8B=E6=9D=A5=E5=B0=B1=E5=88=9B=E5=BB=BA=E6=95=B0=E6=8D=AE=E5=AD=97=E5=85=B8=
+=E5=92=8Cpl/sql=E5=8C=85=EF=BC=8C</span>
+<br />
+<span>sqlplus &quot;/as sysdba</span>
+<span>&quot;</span>
+<br />
+<span>SQL&gt;@=EF=BC=9F/rdbms/admin/catalog.sql;</span>
+<br />
+<span>&nbsp;</span>
+<span>SQL&gt;@=EF=BC=9F/rdbms/admin/cataproc.sql;</span>
+<br />
+<span>&nbsp;</span>
+<span>SQL&gt;@=EF=BC=9F/rdbms/admin/utlrp</span>
+<span>.sql;</span>
+<span>&nbsp;</span>
+<span>&nbsp;</span>
+<br />
+<span>&nbsp;</span>
+<span>SQL&gt;conn system/*****</span>
+<span>;</span>
+<span>&nbsp;</span>
+<br />
+<span>&nbsp;</span>
+<span>SQL&gt;@=EF=BC=9F/sqlplus/admin/pupbld.sql</span>
+<span>;</span>
+<span>&nbsp;</span>
+<br />
+<span>(=E8=BF=99=E5=87=A0=E4=B8=AA=E8=84=9A=E6=9C=AC=E6=94=BE=E5=9C=A8$ORAC=
+LE_HOME/rdbms/admin=E4=B8=8B=EF=BC=8C=E4=B9=9F=E5=8F=AF=E4=BB=A5=E5=85=88=
+=E8=BF=9B=E8=BF=99=E4=B8=AA=E7=9B=AE=E5=BD=95=EF=BC=8C=E7=84=B6=E5=90=8E=E7=
+=9B=B4=E6=8E=A5@=E8=84=9A=E6=9C=AC=E5=B0=B1=E5=A5=BD)</span>
+<br />
+<span>=E6=9C=80=E5=90=8E</span>
+<span>&nbsp;</span>
+<span>shutdown immediate =E7=84=B6=E5=90=8Estartup=E5=90=A7~</span>
+<br />
+<br />
+<br />
+<span>=E6=95=B0=E6=8D=AE=E5=BA=93=E6=AD=A3=E7=A1=AEopen=E4=B9=8B=E5=90=8E=
+=EF=BC=8C</span>
+<span>=E5=B0=B1=E6=98=AF=E9=85=8D=E7=BD=AE=E7=9B=91=E5=90=AC=E5=99=A8=E4=BA=
+=86=EF=BC=8C</span>
+<br />
+<span>=E6=8A=8A\network\admin\listener.ora =E5=92=8C\network\admin\tnsname.=
+ora=E9=87=8C=E9=9D=A2=E7=9A=84LOCALHOST=E6=94=B9=E6=88=90IP=EF=BC=8C=E6=8A=
+=8ASID SID_NAME=E6=94=B9=E6=88=90=E5=AE=9E=E4=BE=8B=E5=90=8D=EF=BC=8C=E9=87=
+=8D=E5=90=AF=E6=95=B0=E6=8D=AE=E5=BA=93=EF=BC=8C=E9=87=8D=E5=90=AF=E7=9B=91=
+=E5=90=AC</span>
+<br />
+<span>PS:=E5=8F=82=E6=95=B0=E6=96=87=E4=BB=B6=E7=9A=84service=E5=92=8C=E7=
+=9B=91=E5=90=AC=E5=99=A8=E7=9A=84service=E8=A6=81=E5=AF=B9=E4=B8=8A=EF=BC=
+=81</span>
+<br />
+<span>&nbsp;</span>
+<br />
+<span>=E7=84=B6=E5=90=8E=E7=94=A8sqlplus=EF=BC=8C=E4=BD=BF=E7=94=A8sys=E6=
+=88=96=E8=80=85system=E7=99=BB=E5=BD=95=E8=BF=9B=E5=8E=BB=EF=BC=8Cshow para=
+meter=EF=BC=9B=E6=88=96=E8=80=85select table_name from dba_tables=E7=9C=8B=
+=E7=9C=8B=E6=98=AF=E5=90=A6=E6=AD=A3=E5=B8=B8~~</span>
+<br />
+<span>&nbsp;</span>
+<br />
+<span>The End! Happy Oracle 11g~</span>
+<br />
+<br />
+<span>PS:=E7=94=B1=E4=BA=8E=E6=88=91=E6=98=AF=E4=BB=8Eoracle=E5=AE=98=E7=BD=
+=91=E4=B8=8B=E8=BD=BD=E7=9A=84oracle11g=EF=BC=8C=E4=B8=8D=E7=9F=A5=E9=81=93=
+=E6=98=AF=E5=90=A6=E6=98=AF=E8=BF=99=E4=B8=AA=E5=8E=9F=E5=9B=A0=EF=BC=8C=E5=
+=AF=BC=E8=87=B4=E6=95=B0=E6=8D=AE=E5=BA=93=E7=B1=BB=E5=9E=8B=E4=B8=8D=E5=86=
+=99GENERAL_PURPOSE =E7=9A=84=E8=AF=9D=EF=BC=8C=E5=AE=89=E8=A3=85=E4=B8=80=
+=E5=AE=9A=E4=BC=9A=E5=9B=A0=E4=B8=BA=E7=94=B5=E5=AD=90=E9=82=AE=E4=BB=B6=E5=
+=9C=B0=E5=9D=80=E7=9A=84=E7=BC=98=E6=95=85=E7=BB=88=E6=AD=A2=E2=95=AE(=E2=
+=95=AF_=E2=95=B0)=E2=95=AD</span>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_188_1024687674.1521530444130--
